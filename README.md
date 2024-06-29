@@ -1,6 +1,14 @@
+![banner](banner.png)
 
+## Hi there👋 I'm Hailey
 
-## Hi there 👋 I'm Hailey
+I'm an undergraduate at MIT studying Computer Science. Currently, I'm building Folio, an ed-tech web/mobile app and startup! I'm passionate about building tech products, particularly in the education sector -- I love being able to see the impact my own friends, classmates, and younger sister. This summer, I'm also a Software Engineer Intern at MITRE. Checkout my [portfolio](www.hpan.dev)!
+
+### Tools and Tech
+
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hap196&theme=dark&background=000000)](https://git.io/streak-stats)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hap196&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hap196/hap196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
