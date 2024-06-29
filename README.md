@@ -2,9 +2,34 @@
 
 ## Hi there👋 I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. Currently, I'm building Folio, an ed-tech web/mobile app and startup! I'm passionate about building tech products, particularly in the education sector -- I love being able to see the impact my own friends, classmates, and younger sister. This summer, I'm also a Software Engineer Intern at MITRE. Checkout my [portfolio](www.hpan.dev)!
+I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Software Engineer Intern at MITRE. Checkout my [portfolio](www.hpan.dev)!
 
-### Tools and Tech
+- 🔭 Currently working on ... Folio, an ed-tech web/mobile app and startup! 
+- 👩🏻‍💻 Interested in ... web, mobile and AI dev
+- 🌱 Currently learning ... about VC and the startup industry
+
+### Tools
+<div id="badges">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
 
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hap196&theme=dark&background=000000)](https://git.io/streak-stats)<br/><br/>
@@ -15,8 +40,7 @@ I'm an undergraduate at MIT studying Computer Science. Currently, I'm building F
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
