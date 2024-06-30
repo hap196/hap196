@@ -2,7 +2,7 @@
 
 ## Hi there👋 I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Software Engineer Intern at MITRE. Checkout my <b>[portfolio](www.hpan.dev)</b>!
+I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Software Engineer Intern at MITRE. Check out my <b>[portfolio](www.hpan.dev)</b>!
 
 - 🔭 Currently working on ... Folio, an ed-tech web/mobile app and startup! 
 - 👩🏻‍💻 Interested in ... web, mobile and AI dev
