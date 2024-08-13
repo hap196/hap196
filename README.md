@@ -4,7 +4,7 @@
 
 I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Software Engineer Intern at MITRE. Check out my <b>[portfolio](www.hpan.dev)</b>!
 
-- 🔭 Currently working on ... Folio, an ed-tech web/mobile app and startup! 
+- 🔭 Currently working on ... projects for [Full Stack @ MIT](https://www.mitfullstack.org/)! 
 - 👩🏻‍💻 Interested in ... web, mobile and AI dev
 - 🌱 Currently learning ... about VC and the startup industry
 
