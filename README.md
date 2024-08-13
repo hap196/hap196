@@ -6,7 +6,7 @@ I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Softwa
 
 - 🔭 Currently working on ... projects for [Full Stack @ MIT](https://www.mitfullstack.org/)! 
 - 👩🏻‍💻 Interested in ... web, mobile and AI dev
-- 🌱 Currently learning ... about VC and the startup industry
+- 🌱 Currently learning ... Next.js
 
 ### Tools
 <div id="badges">
