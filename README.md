@@ -2,12 +2,12 @@
 
 ## Hi there👋 I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. This summer, I'm a Software Engineer Intern at MITRE. Check out my <b>[portfolio](www.hpan.dev)</b>!
-
+I'm an undergraduate at MIT studying Computer Science. Check out my <b>[portfolio](www.hpan.dev)</b>!
+<!--
 - 🔭 Currently working on ... projects for [Full Stack @ MIT](https://www.mitfullstack.org/)! 
 - 👩🏻‍💻 Interested in ... web, mobile and AI dev
 - 🌱 Currently learning ... Next.js
-
+-->
 ### Tools
 <div id="badges">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
