@@ -2,7 +2,7 @@
 
 ## Hi there👋 I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. Check out my <b>[portfolio](www.hpan.dev)</b>!
+I'm an undergraduate at MIT studying Computer Science. !
 <!--
 - 🔭 Currently working on ... projects for [Full Stack @ MIT](https://www.mitfullstack.org/)! 
 - 👩🏻‍💻 Interested in ... web, mobile and AI dev
