@@ -1,13 +1,11 @@
 ![banner](banner.png)
 
-## Hi there👋 I'm Hailey
+## Hi! I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science.
-<!--
-- 🔭 Currently working on ... projects for [Full Stack @ MIT](https://www.mitfullstack.org/)! 
-- 👩🏻‍💻 Interested in ... web, mobile and AI dev
-- 🌱 Currently learning ... Next.js
--->
+I'm an undergraduate at MIT studying Computer Science. I'm experienced in full-stack development for both web and iOS platforms.
+- Currently working on ... MIT Clubs - an app that helps students explore clubs and track recruitment deadlines!
+- Interested in ... AI agents, UI/UX, cloud computing
+
 ### Tools
 <div id="badges">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
