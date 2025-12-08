@@ -1,8 +1,6 @@
 ## Hi! I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. I'm experienced in full-stack development for both web and iOS platforms.
-- Currently working on ... MIT Clubs - an app that helps students explore clubs and track recruitment deadlines!
-- Interested in ... AI agents, UI/UX, cloud computing
+I'm an undergraduate at MIT studying Computer Science. I'm experienced in full-stack development for both web and iOS platforms. I've also dabbled in applied ML research.
 
 ### Tools
 <div id="badges">
