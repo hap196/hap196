@@ -1,6 +1,6 @@
 ## Hi! I'm Hailey
 
-I'm an undergraduate at MIT studying Computer Science. I'm experienced in full-stack development for both web and iOS platforms. I've also dabbled in applied ML research.
+I'm an undergraduate at MIT studying Computer Science.
 
 ### Tools
 <div id="badges">
